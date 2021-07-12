@@ -1,0 +1,47 @@
+body{
+    font-family: 'Shippori Mincho', serif;
+}
+
+.bgimg{
+    background-image: url(img/banner.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 620px;
+}
+
+.headerset{
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+
+.headerset h2{
+    font-size: 42px;
+}
+
+.headerset h1{
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.ourservices{
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+
+.rowsetting p{
+    padding: 10px;
+    color: #6c757d;
+}
